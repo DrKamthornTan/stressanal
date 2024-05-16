@@ -36,7 +36,7 @@ itsdangerous==2.1.2
 Jinja2==3.1.2
 jsonschema==4.19.0
 jsonschema-specifications==2023.7.1
-keras==2.13.1
+keras
 kiwisolver==1.4.5
 libclang==16.0.6
 Markdown==3.4.4
@@ -76,7 +76,7 @@ smmap==5.0.0
 soupsieve==2.5
 streamlit==1.30.0
 tenacity==8.2.2
-tensorboard==2.13.0
+tensorboard
 tensorboard-data-server==0.7.1
 tensorflow
 tensorflow-estimator==2.13.0
